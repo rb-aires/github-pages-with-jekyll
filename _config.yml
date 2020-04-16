@@ -1,9 +1,9 @@
 theme: minima
-title: Your awesome title
+title: "Before the Beginning"/2020-04-16-title.md
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Some kind of a diary about everyday life for a common workerclass student.
+  Some kind of a diary about everyday life for a common workingclass student.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
